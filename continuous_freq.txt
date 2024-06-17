@@ -1,0 +1,7 @@
+Frequency         Lowerlimit of the Class         Upper Limit of the Class                                     
+2                 10                              25
+3                 25                              40
+7                 40                              55
+6                 55                              70
+6                 70                              85
+6                 85                              100            
