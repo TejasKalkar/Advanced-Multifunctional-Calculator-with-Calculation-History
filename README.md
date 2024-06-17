@@ -1,4 +1,4 @@
-# Advanced Multifunctional Calculator with History
+# Advanced Multifunctional Calculator with Calculation History
 ## CSL1010: Major Project
 
 ### Contributors:
